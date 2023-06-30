@@ -5,6 +5,7 @@
 ## challenges
 1. 1/
    - a/ install docker go this <a href="https://container-registry.oracle.com">oracle</a> if you get stuck se <a href="https://github.com/qukiiignb/ORACLE/issues/1">issue #1</a>
+   - b/ Escribir una instrucción SELECT your <a href="https://www.oracle.com/ar/tools/technologies/howto-sql-worksheet-basic-syntax.html">doc</a>
 
 
 
